@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Food"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@drawable/iconsss"
+        android:title="Food"
+
+        />
+    <item
+        android:id="@+id/Back"
+        android:enabled="true"
+        android:icon="@drawable/iconss"
+        android:title="Back"
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/Next"
+        android:enabled="true"
+        android:icon="@drawable/icons"
+        android:title="Next"
+        app:showAsAction="always"
+        />
+</menu>
